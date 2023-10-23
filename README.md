@@ -2,7 +2,7 @@
 
 ##abstract
 
-n recent years, graph neural networks (GNN) have become a popular tool for solving various problems over
+In recent years, graph neural networks (GNN) have become a popular tool for solving various problems over
 graphs. The link structure of the graph is typically exploited by existing GNNs, and the embeddings of nodes
 are iteratively updated based on their embeddings and the embeddings of their neighbors in the previous
 iteration (layer). Nodes’ contents are used solely in the form of feature vectors, which serve as the nodes’
