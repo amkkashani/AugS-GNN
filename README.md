@@ -1,6 +1,6 @@
 # AugS-GNN
 
-##abstract
+## abstract
 
 In recent years, graph neural networks (GNN) have become a popular tool for solving various problems over
 graphs. The link structure of the graph is typically exploited by existing GNNs, and the embeddings of nodes
