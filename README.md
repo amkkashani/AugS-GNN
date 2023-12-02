@@ -1,5 +1,4 @@
-# AugS-GNN
-***[Paper link](https://arxiv.org/abs/2311.12741)***
+# [AugS-GNN](https://arxiv.org/abs/2311.12741)
 
 
 ## abstract
